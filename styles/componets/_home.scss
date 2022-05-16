@@ -1,0 +1,149 @@
+.header-box2 {
+    height: 15vh;
+    display: flex;
+    
+    .nav-img2 {
+        margin-top: 18%;
+        margin-left: 8%;
+        margin-right: 55%;
+        width: 10%;
+        .img-nav2 {
+           width: 70%;
+        }
+    }
+    .nav-img3 {
+        margin-right: -40%;
+        .img-my-basket2 {
+            width: 80%;
+            margin-top: 5%;
+        }
+    }
+}
+
+.body-box2 {
+    height: 18vh;
+    .card-hello2 {
+        display: flex;
+        .hello {
+            font-size: 3.3rem;
+            margin-left: 5%;
+            margin-right: 20%;
+        }
+    }
+
+    .body-box3 {
+        margin-top: 5%;
+        display: flex;
+
+        .card-search2{
+            
+            .input-text3 {
+                margin-top: .75rem;
+                margin-left: 10%;
+                height: 8.5rem;
+                text-align: left;
+                width: 45.75rem;
+                background-color: #F3F1F1;
+                color: rgb(255, 255, 255);
+                /*letter-spacing: 0.125rem;*/
+                font-size: 2.3rem;
+                cursor: pointer;
+                border-radius: 3.25rem;
+                border-color: #F3F1F1;
+                padding-left: 10%;
+            }
+            .input-text3::placeholder {
+                color: #C2BDBD ;
+                margin-left: 10%;
+            }
+        }
+        .card-group6 {
+            .img-group6 {
+                margin-left: 180%;
+                margin-top: 50%;
+                width: 75%;
+            }
+        }
+    }
+}
+
+.body-recommended1 {
+    width: 100%;
+    height: 4vh;
+    font-weight: bold;
+}
+.body-recommended1 h1 {
+    margin-top: 4%;
+    font-size: 3.9rem;
+    margin-left: 8%;
+   
+}
+
+.card-combo {
+    margin-top: 5%;
+    height: 27vh;
+    display: flex;
+    .card-honey {
+        width: 50%;
+        .img-honey {
+            width: 140%;
+            margin-left: 3%;
+        }
+    }
+    .card-berry {
+        width: 50%;
+        .img-berry {
+            width: 140%;
+            margin-left: -18%;
+        }
+    }
+}
+
+
+.card-li {
+   
+    margin-top: 20%;
+    text-align: center;
+}
+.card-li li{
+    display: inline-block;
+    padding: 1rem;
+    margin-left: 5%;
+}
+.card-li a{
+    font-size: 3rem;
+    color: #938DB5;
+    text-decoration: none;
+}
+#li-hottest {
+    font-size: 3.7rem;
+    color: black;
+    font-weight: bold;
+    text-decoration:underline #FFA451 ;
+}
+
+.card-hottest {
+    margin-top: 5%;
+    height: 27vh;
+    display: flex;
+    .card-quinoa {
+        width: 49%;
+        .img-quinoa {
+            margin-left: 10%;
+            width: 80%;
+        }
+    }
+    .card-tropical {
+        width: 49%;
+        .img-tropical {
+            width: 80%;
+        }
+    }
+    .card-melon {
+        width: 2%;
+        .img-melon {
+            margin-left: 90%;
+            width: 20%;
+        }
+    }
+}

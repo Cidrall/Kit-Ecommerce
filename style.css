@@ -1,0 +1,125 @@
+#body {
+    width: 1500px;
+}
+
+.card {
+    background: #FFA451;
+    width: 100%;
+    height: 500px;
+    border-radius: 70px 70px 0 0;
+}
+  
+#login {
+    margin-top: -5px;
+    width: 100%;
+    height:1300px;
+    background: #FFA451;
+}
+
+.car-color {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.img-fruits {
+    position: relative;
+    width: 80%;
+    height: 100%;
+    left: 8%;
+    
+}.img {
+    width: 100%;
+    
+}
+.img-f {
+    position: absolute;
+    left: 85%;
+    top: -3%;
+    width: 100%;
+}.img2 {
+    width: 200px;
+    height: 200px;
+}
+
+/* RESPONSAVEL PELA MENSAGEM */
+.card2 {
+    margin-top: 110px;
+    margin-left: 50px;
+}
+.card2 h1 {
+    
+    font-size: 75px;
+    text-align: left;
+    width: 100%;
+    margin-top: 17%;
+    margin-left: 1%;
+    font-weight: bold;
+}
+
+/* msg index1 */
+.card-h2 {
+    margin-top: 0%;
+    margin-left: 50px;
+}
+.card-h2 h2 {
+    font-family: Coves Bold;
+    font-size: 70px;
+    text-align: left;
+    width: 100%;
+    margin-top: 5%;
+    margin-left: 1%;
+    color: #5D577E;
+}
+
+/* BOTAO */
+.button-next {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-text {
+    margin-top: .75rem;
+    height: 200px;
+    text-align: left;
+    width: 1100px;
+    background-color: #F3F1F1;
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    font-size: 58px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 36px;
+    border-color: #F3F1F1;
+    padding-left: 10%;
+}
+
+.card3 {
+    margin-top: 100px;
+    height: 120px;
+    text-align: center;
+    margin-block-end: 30px;
+
+}
+.input-text::placeholder {
+    color: #C2BDBD ;
+    margin-left: 10%;
+}
+
+  .next {
+    
+    margin-top: 240px;
+    height: 200px;
+    text-align: center;
+    width: 1300px;
+    background-color: #FFA451;
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+    font-size: 54px;
+    cursor: pointer;
+    border-radius: 36px;
+    border-color: #FFA451;
+ }
