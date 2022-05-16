@@ -97,7 +97,6 @@
         }
 
         .card-2 h1{
-            text-decoration:underline orange;
             margin-top: 10%;
             font-size: 3.6rem;
             text-align: left;
@@ -106,6 +105,12 @@
             font-weight: bold;
             color: #27214D;
             
+        }
+        .card-line2 {
+            width: 50%;
+            height: 4px;
+            background-color: #FFA451;
+            margin-left: 6%;
         }
         .card-3 h2{
             margin-top: 2%;

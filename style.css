@@ -38,7 +38,13 @@
     left: 85%;
     top: -3%;
     width: 100%;
-}.img2 {
+}.img-f2 {
+    position: absolute;
+    left: 85%;
+    top: -13%;
+    width: 100%;
+}
+.img2 {
     width: 200px;
     height: 200px;
 }
@@ -62,6 +68,7 @@
 .card-h2 {
     margin-top: 0%;
     margin-left: 50px;
+    margin-right: 5%;
 }
 .card-h2 h2 {
     font-family: Coves Bold;
